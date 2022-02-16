@@ -25,10 +25,10 @@ module.exports = {
         singleTypes: ['general'], // 单节点的集合
         // Possibility to login with a Strapi user,
         // when content types are not publicly available (optional).
-        // loginData: {
-        //   identifier: 'mcgee0731@163.com',
-        //   password: 'Mcgee123.'
-        // }
+        loginData: {
+          identifier: 'mcgee0731@163.com',
+          password: 'Mcgee123.'
+        }
       }
     }
   ],

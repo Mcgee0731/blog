@@ -4,5 +4,3 @@ dist
 .cache
 .DS_Store
 src/.temp
-.env
-.env.*

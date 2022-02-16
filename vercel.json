@@ -2,7 +2,7 @@
     "rewrites":[
         {
             "source":"/uploads/:match*",
-            "destination":"http://106.75.231.182/uploads/:match*"
+            "destination":"http://106.75.231.182:1337/uploads/:match*"
         }
     ]
 }
